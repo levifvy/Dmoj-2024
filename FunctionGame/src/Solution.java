@@ -16,13 +16,15 @@ class FunctionGame {
         return ((num * 2) - 1);
     }
     public int function5(int num){
-        return 6;
+
+           return 6;
+
     }
     public int function6(int num1, int num2){
         return num1 + num2;
     }
     public int function7(int num1, int num2){
-        int result = 0;
+        int result;
         if (num2 % 2 == 0 && num2 < 6){
             result = num1 + 1;
         }else {
