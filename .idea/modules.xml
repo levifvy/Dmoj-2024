@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dmoj-2024.iml" filepath="$PROJECT_DIR$/Dmoj-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionGame/FunctionGame.iml" filepath="$PROJECT_DIR$/FunctionGame/FunctionGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Post/Post.iml" filepath="$PROJECT_DIR$/Post/Post.iml" />
       <module fileurl="file://$PROJECT_DIR$/Usuari/Usuari.iml" filepath="$PROJECT_DIR$/Usuari/Usuari.iml" />
     </modules>
